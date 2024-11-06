@@ -1,0 +1,9 @@
+LMS.API/.vs/
+LMS.API/bin/
+LMS.API/obj/
+LMS.Application/bin/
+LMS.Application/obj/
+LMS.Domain/bin/
+LMS.Domain/obj/
+LMS.Infrastructure/bin/
+LMS.Infrastructure/obj/
